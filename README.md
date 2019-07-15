@@ -1,0 +1,2 @@
+# exploration_of_dataScience_into_image_recognition_pattern_case_SVM_PCA_LDA_csv_rawdata_mongo_fashion
+this project consists about resolving the lack of accuracy of image recognition pattern dealing with heterogenous, unstructred and humongous data.
